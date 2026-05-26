@@ -269,12 +269,10 @@ export default function ManagementView() {
           </div>
 
           {/* Highlighted Computer Operator: Tilak Kanojiya! */}
-          <div className="bg-gradient-to-r from-blue-900 to-indigo-950 text-white rounded-3xl p-6 sm:p-10 shadow-xl border border-blue-800/50 max-w-4xl mx-auto overflow-hidden relative">
+          <div className="bg-gradient-to-r from-black to-indigo-950 text-white rounded-3xl p-6 sm:p-10 shadow-xl border border-blue-800/50 max-w-4xl mx-auto overflow-hidden relative">
             <div className="absolute right-0 top-0 w-64 h-64 bg-red-600/10 rounded-full blur-3xl pointer-events-none" />
             <div className="absolute -left-10 -bottom-10 w-48 h-48 bg-blue-600/15 rounded-full blur-2xl pointer-events-none" />
-            <div className="absolute top-4 right-4 text-white/10 uppercase font-bold font-sans text-5xl select-none hidden lg:block tracking-tighter">
-              OPERATIONS
-            </div>
+    
 
             <div className="relative flex flex-col md:flex-row items-center gap-8 z-10">
               <div className="relative shrink-0">

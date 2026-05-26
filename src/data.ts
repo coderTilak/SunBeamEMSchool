@@ -147,7 +147,7 @@ export const DIRECTORS: DirectorProfile[] = [
   {
     name: "Mr. Niraj Gautam",
     role: "Facilities & Operations Director",
-    image: "/Niraj.jpg",
+    image: "/niraj.jpg",
     bio: "Monitors classroom architecture, smart-board installations, transportation fleet safety, and playground maintenance."
   },
   {
@@ -159,7 +159,7 @@ export const DIRECTORS: DirectorProfile[] = [
   {
     name: "Mrs. Sangam Malla",
     role: "HR & Welfare Director",
-    image: "/Sangam.jpg",
+    image: "/sangam.jpg",
     bio: "Oversees professional recruitment, staffing, teacher skill-building workshops, and student support services."
   },
   {
