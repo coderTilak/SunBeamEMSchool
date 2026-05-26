@@ -35,44 +35,44 @@ export const SCHOOL_INFO = {
 // Hero Slides
 export const HERO_SLIDES = [
   {
-    image: "/src/assets/images/schoolphoto2.jpg",
+    image: "/schoolphoto2.jpg",
     subtitle: "Welcome to Sun Beam English Medium School",
     title: "Empowering Students to Achieve Global Excellence",
     description: "Located in Nepalgunj-01, Banke, we combine modern technology, values-driven pedagogy, and dedicated staff to build future-ready leaders."
   },
   {
-    image: "/src/assets/images/photo6.jpg",
+    image: "/photo6.jpg",
     subtitle: "A Center of Holistic Growth",
     title: "Vibrant Learning & Active Exploration",
     description: "Through advanced laboratories, comprehensive arts programmes, modern smart classes, and interactive group discussions, education here knows no bounds."
   },
    {
-    image: "/src/assets/images/photo2.jpg",
+    image: "/photo2.jpg",
     subtitle: "A Center of Holistic Growth",
     title: "Visited Manabsewa Aashram ",
     description: "Understanding the importance of community engagement."
   },
     {
-    image: "/src/assets/images/photo3.jpg",
+    image: "/photo3.jpg",
     subtitle: "A Center of Holistic Growth", 
     title: "Vibrant Learning & Active Exploration",
     description: "Through advanced laboratories, comprehensive arts programmes, modern smart classes, and interactive group discussions, education here knows no bounds."
   },
        {
-    image: "/src/assets/images/photo4.jpg",
+    image: "/photo4.jpg",
     subtitle: "A Center of Holistic Growth",
     title: "Vibrant Learning & Active Exploration",
     description: "Through advanced laboratories, comprehensive arts programmes, modern smart classes, and interactive group discussions, education here knows no bounds."
   },
     {
-    image: "/src/assets/images/photo5.jpg",
+    image: "/photo5.jpg",
     subtitle: "A Center of Holistic Growth",
     title: "Vibrant Learning & Active Exploration",
     description: "Through advanced laboratories, comprehensive arts programmes, modern smart classes, and interactive group discussions, education here knows no bounds."
   },
 
         {
-    image: "/src/assets/images/photo7.jpg",
+    image: "/photo7.jpg",
     subtitle: "A Center of Holistic Growth",
     title: "Vibrant Learning & Active Exploration",
     description: "Through advanced laboratories, comprehensive arts programmes, modern smart classes, and interactive group discussions, education here knows no bounds."
@@ -85,7 +85,7 @@ export const LEADERS: { principal: LeaderProfile; chairman: LeaderProfile } = {
   principal: {
     name: "Mr. Shant Bahadur Malla",
     role: "Principal",
-    image: "/src/assets/images/photo7.jpg",
+    image: "/photo7.jpg",
     bio: "Under Mr. Shant Bahadur Malla's outstanding leadership, Sun Beam English Medium School has consistently scaled academic and extracurricular peaks. Dedicated to quality, he blends rigorous curriculum guidelines with interactive individual care.",
     message: "At Sun Beam English Medium School, we believe that education is not merely the acquisition of facts, but the training of the mind to think critically. We seek to inspire curiosity, instill emotional intelligence, and foster active citizenship in each child. Our school is a vibrant landscape of opportunities, and we welcome all prospective families to join us in this magnificent journey of knowledge.",
     experience: "Over 20+ years of educational management and administrative excellence in high-ranking academies throughout Nepal."
@@ -93,7 +93,7 @@ export const LEADERS: { principal: LeaderProfile; chairman: LeaderProfile } = {
   chairman: {
     name: "Mr. Ishwor Prasad Pokhrel",
     role: "Chairman",
-    image: "/src/assets/images/ip.jfif",
+    image: "/ip.jfif",
     bio: "Mr. Ishwor Prasad Pokhrel guides the school’s long-term vision with stellar execution. His primary goal is making top-tier educational assets available to students in Nepalgunj and Banke district, preparing them for overseas success or local innovation.",
     message: "As Chairman, my promise is to constantly enrich our learning infrastructure with modern technology, secure classrooms, and elite professional talent. Through our special executive partnership with Adarsh Ma. Vi., we are establishing academic standards that set a benchmark for public-private synergy in Banke district. Let us work hand in hand to light the path for future generations.",
     experience: "Prominent local leader, philanthropist, and educational entrepreneur with decades of contribution to educational policy."
@@ -105,37 +105,37 @@ export const DIRECTORS: DirectorProfile[] = [
   {
     name: "Mr. Prakash Lamichhane",
     role: "Managing Director",
-    image: "/src/assets/images/prakash.jpg",
+    image: "/prakash.jpg",
     bio: "Supervises general school logistics, business relations, and legal affairs. Focuses on operational efficiency."
   },
   {
     name: "Mr. Sanjay Thapa",
     role: "Director of Academics",
-    image: "/src/assets/images/sanjay.jpg",
+    image: "/sanjay.jpg",
     bio: "Orchestrates curriculum integration, pedagogical updates, teacher evaluation metrics, and advanced learning schedules."
   },
   {
     name: "Dr. Raj Kumar Subedi",
     role: "Medical & Health Advisor",
-    image: "/src/assets/images/",
+    image: "/raj-kumar.jpg",
     bio: "Guides student sanitation guidelines, wellness programs, and leads seasonal free health camps for the school community."
   },
   {
     name: "Mr. Giriraj Paudel",
     role: "Director of Administration",
-    image: "/src/assets/images/giriraj.jpg",
+    image: "/giriraj.jpg",
     bio: "Manages public relations, government compliance, policy formulation, and coordinates regional educational board partnerships."
   },
   {
     name: "Mr. Chet Chapagain",
     role: "Advisory Council Chairman",
-    image: "/src/assets/images/chet.jpg",
+    image: "/chet.jpg",
     bio: "Acts as a primary advisor on board ethics, institutional integrity, expansion projects, and community alignment."
   },
   {
     name: "Mr. Pawan Gautam",
     role: "Finance Director",
-    image: "/src/assets/images/pawan.jpg",
+    image: "/pawan.jpg",
     bio: "Formulates budget maps, oversees infrastructure funding, and ensures financial compliance with local regulations."
   },
   {
@@ -147,31 +147,31 @@ export const DIRECTORS: DirectorProfile[] = [
   {
     name: "Mr. Niraj Gautam",
     role: "Facilities & Operations Director",
-    image: "/src/assets/images/Niraj.jpg",
+    image: "/Niraj.jpg",
     bio: "Monitors classroom architecture, smart-board installations, transportation fleet safety, and playground maintenance."
   },
   {
     name: "Mrs. Bhagwati Parajuli",
     role: "Holistic Development Lead",
-    image: "/src/assets/images/",
+    image: "/bhagwati.jpg",
     bio: "Pioneers extra-curricular strategies, moral value classes, dynamic youth clubs, and creative writing programs."
   },
   {
     name: "Mrs. Sangam Malla",
     role: "HR & Welfare Director",
-    image: "/src/assets/images/Sangam.jpg",
+    image: "/Sangam.jpg",
     bio: "Oversees professional recruitment, staffing, teacher skill-building workshops, and student support services."
   },
   {
     name: "Mr. Anil K Agrawal",
     role: "Strategic Industry Liaison",
-    image: "/src/assets/images/anil.jpg",
+    image: "/anil.jpg",
     bio: "Creates digital collaboration pipelines, vocational guidance paths, and connects technical institutes with graduating cohorts."
   },
   {
     name: "Mr. Rajendra P. Gautam",
     role: "Socio-Cultural Director",
-    image: "/src/assets/images/rajendra.jpg",
+    image: "/rajendra.jpg",
     bio: "Promotes traditional heritage, cultural day programs, art festivals, music events, and community-driven charitable actions."
   }
 ];
@@ -181,7 +181,7 @@ export const ADMINISTRATION: AdminProfile[] = [
   {
     name: "Mrs. Riya Chaudhary",
     role: "School Coordinator",
-    image: "/src/assets/images/riya.jpg",
+    image: "/riya.jpg",
     bio: "Coordinates high school planning, maps daily class timings, oversees examinations, and mediates parental feedback sessions.",
     responsibilities: [
       "School Exam Schedules & Performance Reviews",
@@ -192,7 +192,7 @@ export const ADMINISTRATION: AdminProfile[] = [
   {
     name: "Mrs. Sarita Singh",
     role: "Pre-Primary Coordinator",
-    image: "/src/assets/images/sarita.jpg",
+    image: "/sarita.jpg",
     bio: "Specializes in early childhood care and interactive play-based learning to make transition into school vibrant for toddlers.",
     responsibilities: [
       "Montessori Method Application",
@@ -203,7 +203,7 @@ export const ADMINISTRATION: AdminProfile[] = [
   {
     name: "Mr. Keshav Bhandari",
     role: "Senior Accountant",
-    image: "/src/assets/images/keshav.jpg",
+    image: "/keshav.jpg",
     bio: "Drives fiscal execution, processes monthly payrolls, oversees budgets, and handles annual audits and procurement details.",
     responsibilities: [
       "Financial Reporting & Taxation Management",
@@ -214,7 +214,7 @@ export const ADMINISTRATION: AdminProfile[] = [
   {
     name: "Mrs. Yamuna Rokaya",
     role: "Assistant Accountant",
-    image: "/src/assets/images/yamuna.png",
+    image: "/yamuna.png",
     bio: "Assists parents with billing questions, resolves billing errors, logs uniform purchases, and processes online payments.",
     responsibilities: [
       "Student Fee Collection counter relations",
@@ -225,7 +225,7 @@ export const ADMINISTRATION: AdminProfile[] = [
   {
     name: "Tilak Kanojiya",
     role: "Computer Operator & IT Systems Admin",
-    image: "/src/assets/images/tilak.jpg",
+    image: "/tilak.jpg",
     bio: "Manages the digital spine of Sun Beam. Directs IEMIS systems registration, manages active school parameters, coordinates the online admissions desk, and maintains cyber safety for our smart laboratories.",
     responsibilities: [
       "IEMIS government registry updates & analysis",
