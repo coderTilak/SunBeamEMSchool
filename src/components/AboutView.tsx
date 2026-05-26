@@ -97,7 +97,7 @@ export default function AboutView() {
           <div className="relative">
             <div className="absolute -inset-1.5 bg-gradient-to-red from-blue-600 to-red-600 rounded-2xl opacity-35 blur-md" />
             <img 
-              src="/src/assets/images/schoolphoto2.jpg" 
+              src="/schoolphoto2.jpg" 
               alt="Sun Beam Campus History Banner" 
               className="relative rounded-2xl border-4 border-white shadow-lg object-cover w-full h-[320px] sm:h-[400px]"
               referrerPolicy="no-referrer"
