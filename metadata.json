@@ -1,0 +1,6 @@
+{
+  "name": "Sun Beam English Medium School",
+  "description": "Information-rich, responsive, and elegant official website for Sun Beam English Medium School in Nepalgunj, Banke, Nepal, featuring online enrollment, appointment booking, a dynamic grid gallery, and detailed leadership directories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
